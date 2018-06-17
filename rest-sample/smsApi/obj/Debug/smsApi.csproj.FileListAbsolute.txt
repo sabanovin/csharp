@@ -1,0 +1,11 @@
+c:\users\hrzp\documents\visual studio 2013\Projects\smsApi\smsApi\bin\Debug\smsApi.exe.config
+c:\users\hrzp\documents\visual studio 2013\Projects\smsApi\smsApi\bin\Debug\smsApi.exe
+c:\users\hrzp\documents\visual studio 2013\Projects\smsApi\smsApi\bin\Debug\smsApi.pdb
+c:\users\hrzp\documents\visual studio 2013\Projects\smsApi\smsApi\obj\Debug\smsApi.csprojResolveAssemblyReference.cache
+c:\users\hrzp\documents\visual studio 2013\Projects\smsApi\smsApi\obj\Debug\smsApi.Form1.resources
+c:\users\hrzp\documents\visual studio 2013\Projects\smsApi\smsApi\obj\Debug\smsApi.Properties.Resources.resources
+c:\users\hrzp\documents\visual studio 2013\Projects\smsApi\smsApi\obj\Debug\smsApi.csproj.GenerateResource.Cache
+c:\users\hrzp\documents\visual studio 2013\Projects\smsApi\smsApi\obj\Debug\smsApi.exe
+c:\users\hrzp\documents\visual studio 2013\Projects\smsApi\smsApi\obj\Debug\smsApi.pdb
+c:\users\hrzp\documents\visual studio 2013\Projects\smsApi\smsApi\bin\Debug\Newtonsoft.Json.dll
+c:\users\hrzp\documents\visual studio 2013\Projects\smsApi\smsApi\bin\Debug\Newtonsoft.Json.xml
